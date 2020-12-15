@@ -1083,6 +1083,30 @@ Happy learning 😊 </p>
                 </div>
               </div>
             </div>
+            
+             <div class='wpb_column vc_column_container vc_col-sm-4'>
+              <div class=' vc_column-inner '>
+                <div class='wpb_wrapper'>
+                  <div class='wow fadeInUp' data-wow-delay='0.3s'>
+                    <div class='service-box style-2 '>
+                      <!-- Icon --><i class='lnr lnr-home'/>
+                       <div class='service-box-content'>
+                         <!-- Service Heading --><h4><b>Smart Dustbin </b></h4>
+                        <!-- Service Description --><p>
+                                 I have done a project ,named &quot; Smart Dustbin  &quot; which automates our garbage bin based on Embedded Systems via Arduino UNO. <br/><br/> </p>
+                          
+                            <div class='project'>
+                   
+                     <a href='https://github.com/KISHOREMUTHU/Arduino-Projects/blob/main/digital_dustbin.ino'><i class='lnr lnr-file-empty'/><p>Click here to see Arduino code.</p></a>  
+                              
+                            </div>
+                      </div>
+                       
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           
              <div class='wpb_column vc_column_container vc_col-sm-4'>
               <div class=' vc_column-inner '>
@@ -1144,7 +1168,7 @@ Happy learning 😊 </p>
               <div class='fun-box text-center'>
                 <i class='lnr lnr-flag'/>
 
-                <div class='value' data-target='5'>0</div><!-- Change The Number ex: data-target='310' -->
+                <div class='value' data-target='6'>0</div><!-- Change The Number ex: data-target='310' -->
                 <div class='title'>Completed Projects</div><!-- Heading -->
               </div>
             </div>
