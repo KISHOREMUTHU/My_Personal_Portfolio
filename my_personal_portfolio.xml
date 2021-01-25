@@ -754,7 +754,7 @@ user is not using shrink to fit then we expand the header.
               <a href='/#about'>About</a>
             </li>
             <li>
-              <a href='/#service'>Skills</a>
+              <a href='/#service'>Activities</a>
             </li>
             <li>
               <a href='/#portfolio'>Portfolio</a>
@@ -857,8 +857,8 @@ Happy learning 😊 </p>
                   <!--Single Skills Bar-->
                   <div class='single-bar'>
                     <div class='skill-info'>
-                      <span class='skill-title'>Flutter App UI Development</span><!--Skills Name-->
-                      <span class='skill-percent'>75%</span><!--Skills Percentage-->
+                      <span class='skill-title'>Flutter App Development</span><!--Skills Name-->
+                      <span class='skill-percent'>70%</span><!--Skills Percentage-->
                     </div>
                     <div class='progress'>
                       <div class='progress-bar' role='progressbar' style='width: 75%;'/><!--Change Skills Percentage-->
@@ -867,7 +867,7 @@ Happy learning 😊 </p>
                    <div class='single-bar'>
                     <div class='skill-info'>
                       <span class='skill-title'>C </span><!--Skills Name-->
-                      <span class='skill-percent'>95%</span><!--Skills Percentage-->
+                      <span class='skill-percent'>90%</span><!--Skills Percentage-->
                     </div>
                     <div class='progress'>
                       <div class='progress-bar' role='progressbar' style='width: 95%;'/><!--Change Skills Percentage-->
@@ -876,7 +876,7 @@ Happy learning 😊 </p>
                    <div class='single-bar'>
                     <div class='skill-info'>
                       <span class='skill-title'>C ++ </span><!--Skills Name-->
-                      <span class='skill-percent'>90%</span><!--Skills Percentage-->
+                      <span class='skill-percent'>80%</span><!--Skills Percentage-->
                     </div>
                     <div class='progress'>
                       <div class='progress-bar' role='progressbar' style='width: 90%;'/><!--Change Skills Percentage-->
@@ -885,7 +885,7 @@ Happy learning 😊 </p>
                    <div class='single-bar'>
                     <div class='skill-info'>
                       <span class='skill-title'>Python </span><!--Skills Name-->
-                      <span class='skill-percent'>70%</span><!--Skills Percentage-->
+                      <span class='skill-percent'>60%</span><!--Skills Percentage-->
                     </div>
                     <div class='progress'>
                       <div class='progress-bar' role='progressbar' style='width: 70%;'/><!--Change Skills Percentage-->
@@ -894,7 +894,7 @@ Happy learning 😊 </p>
                    <div class='single-bar'>
                     <div class='skill-info'>
                       <span class='skill-title'>Java </span><!--Skills Name-->
-                      <span class='skill-percent'>60%</span><!--Skills Percentage-->
+                      <span class='skill-percent'>50%</span><!--Skills Percentage-->
                     </div>
                     <div class='progress'>
                       <div class='progress-bar' role='progressbar' style='width: 60%;'/><!--Change Skills Percentage-->
@@ -904,7 +904,7 @@ Happy learning 😊 </p>
                   <div class='single-bar'>
                     <div class='skill-info'>
                       <span class='skill-title'>Competitive Programming</span><!--Skills Name-->
-                      <span class='skill-percent'>90%</span><!--Skills Percentage-->
+                      <span class='skill-percent'>70%</span><!--Skills Percentage-->
                     </div>
                     <div class='progress'>
                       <div class='progress-bar' role='progressbar' style='width: 90%;'/><!--Change Skills Percentage-->
@@ -918,6 +918,12 @@ Happy learning 😊 </p>
         </div>
       </section>
       <!--About section end-->
+	       <div class='row page-header wow fadeInUp animated' style='visibility: visible;'>
+            <h1>
+              Activities
+            </h1>
+            <div class='border-bottom'/>
+          </div>
 
       <!-- Service -->
       <section id='skills'>
@@ -1039,6 +1045,51 @@ Happy learning 😊 </p>
                 </div>
               </div>
             </div>
+		
+	 <div class='wpb_column vc_column_container vc_col-sm-4'>
+              <div class=' vc_column-inner '>
+                <div class='wpb_wrapper'>
+                  <div class='wow fadeInUp' data-wow-delay='0.3s'>
+                    <div class='service-box style-2 '>
+                      <!-- Icon --><i class='lnr lnr-laptop-phone'/>
+                       <div class='service-box-content'>
+                        <!-- Service Heading --><h4><b>Flutter Tip Calculator App</b></h4>
+                        <!-- Service Description --><p>
+                                  I have created an application named, "Tip Calculator" ,which is used to calculate the tip preson in a hotel bill . <br/> <br/> </p>
+                          
+                            <div class='project'>
+                    <a href='https://github.com/KISHOREMUTHU/Flutter-Tip-Calculator'><i class='fa fa-laptop'/><p>Click here to explore GitHub</p></a>   
+                            </div>
+                      </div>
+                       
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div> 
+          
+                    <div class='wpb_column vc_column_container vc_col-sm-4'>
+              <div class=' vc_column-inner '>
+                <div class='wpb_wrapper'>
+                  <div class='wow fadeInUp' data-wow-delay='0.3s'>
+                    <div class='service-box style-2 '>
+                      <!-- Icon --><i class='lnr lnr-laptop-phone'/>
+                       <div class='service-box-content'>
+                        <!-- Service Heading --><h4><b>Flutter Quiz App</b></h4>
+                        <!-- Service Description --><p>
+                                  I have created an application named, "Quiz App" , to increase the learning capacity of students via interactive quizzes. <br/> <br/> </p>
+                          
+                            <div class='project'>
+                    <a href='https://github.com/KISHOREMUTHU/Flutter_Quiz_App'><i class='fa fa-laptop'/><p>Click here to explore GitHub</p></a>   
+                            </div>
+                      </div>
+                       
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div> 
+          
                
                  <div class='wpb_column vc_column_container vc_col-sm-4'>
               <div class='vc_column-inner '>
@@ -1108,7 +1159,49 @@ Happy learning 😊 </p>
               </div>
             </div>
           
-             <div class='wpb_column vc_column_container vc_col-sm-4'>
+           
+		
+        </div>
+      </section>
+	    
+      <section id='skills'>
+        <div class='container'>
+
+          <!--Page Header-->
+          <div class='row page-header wow fadeInUp animated' style='visibility: visible;'>
+            <h1>
+              Project Abstracts
+            </h1>
+             
+            <div class='border-bottom'/>
+             <br/><br/>
+          </div>
+          
+           <div class='wpb_column vc_column_container vc_col-sm-4'>
+              <div class=' vc_column-inner '>
+                <div class='wpb_wrapper'>
+                  <div class='wow fadeInUp' data-wow-delay='0.3s'>
+                    <div class='service-box style-2 '>
+                      <!-- Icon --><i class='lnr lnr-file-empty'/>
+                       <div class='service-box-content'>
+                         <!-- Service Heading --><h4><b>COVID Sensor </b></h4>
+                        <!-- Service Description --><p>
+                                 I have submitted an idea of a project ,named &quot; COVID Sensor &quot; , which is a device , to detect social distancing in public places. <br/><br/> </p>
+                          
+                            <div class='project'>
+                   
+                     <a href='https://www.linkedin.com/posts/kishore-muthuselvan-6120a1192_covid-sensor-activity-6682893279660396544-t9IU'><i class='lnr lnr-file-empty'/><p>Click here for Project Abstract.</p></a>  
+                              
+                            </div>
+                      </div>
+                       
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+           <div class='wpb_column vc_column_container vc_col-sm-4'>
               <div class=' vc_column-inner '>
                 <div class='wpb_wrapper'>
                   <div class='wow fadeInUp' data-wow-delay='0.3s'>
@@ -1132,22 +1225,37 @@ Happy learning 😊 </p>
               </div>
             </div>
           
-            <div class='wpb_column vc_column_container vc_col-sm-4'>
+          </div>
+      </section>
+      
+         <section id='skills'>
+        <div class='container'>
+
+          <!--Page Header-->
+          <div class='row page-header wow fadeInUp animated' style=' visibility: visible; '>
+             <h1>
+              Volunteer Experience 
+             </h1>
+             
+            <div class='border-bottom'/>
+             <br/><br/>
+          </div>
+          
+           <div class='wpb_column vc_column_container vc_col-sm-4'>
               <div class=' vc_column-inner '>
                 <div class='wpb_wrapper'>
                   <div class='wow fadeInUp' data-wow-delay='0.3s'>
                     <div class='service-box style-2 '>
-                      <!-- Icon --><i class='lnr lnr-file-empty'/>
+                      <!-- Icon --><i class='lnr lnr-user'/>
                        <div class='service-box-content'>
-                         <!-- Service Heading --><h4><b>COVID Sensor </b></h4>
+                         <!-- Service Heading --><h3> <b> Joint Secretary - ECEA SVCE</b> </h3>
                         <!-- Service Description --><p>
-                                 I have submitted an idea of a project ,named &quot; COVID Sensor &quot; , which is a device , to detect social distancing in public places. <br/><br/> </p>
+                         <h5> Sept 2020 - Present </h5><br/>
+                         I am working as Joint Secretary of ECE Association and I am working for the welfare of my department .
+                         
+                                  <br/><br/> </p>
                           
-                            <div class='project'>
-                   
-                     <a href='https://www.linkedin.com/posts/kishore-muthuselvan-6120a1192_covid-sensor-activity-6682893279660396544-t9IU'><i class='lnr lnr-file-empty'/><p>Click here for Project Abstract.</p></a>  
-                              
-                            </div>
+                           
                       </div>
                        
                     </div>
@@ -1155,8 +1263,31 @@ Happy learning 😊 </p>
                 </div>
               </div>
             </div>
-		
-        </div>
+          
+             <div class='wpb_column vc_column_container vc_col-sm-4'>
+              <div class=' vc_column-inner '>
+                <div class='wpb_wrapper'>
+                  <div class='wow fadeInUp' data-wow-delay='0.3s'>
+                    <div class='service-box style-2 '>
+                      <!-- Icon --><i class='lnr lnr-user'/>
+                       <div class='service-box-content'>
+                         <!-- Service Heading --><h3> <b> Campus Ambassador - Coding Club India</b> </h3>
+                        <!-- Service Description --><p>
+                         <h5> Oct 2020 - Present </h5><br/>
+                         I am working as a Campus Ambassador of Coding Club India , effectively discharging the duties and now working as a Campus Lead for the betterment of the company.
+                         
+                                  <br/><br/> </p>
+                          
+                           
+                      </div>
+                       
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+          </div>
       </section>
       
       <!-- Counter -->
@@ -1186,10 +1317,19 @@ Happy learning 😊 </p>
 
             <div class='col-md-3 col-sm-6 wow fadeInUp' data-wow-delay='0.3s'>
               <div class='fun-box text-center'>
+                <i class=' lnr lnr-file-empty'/>
+
+                <div class='value' data-target='2'>0</div><!-- Change The Number ex: data-target='32' -->
+                <div class='title'>Project Abstracts</div><!-- Heading -->
+              </div>
+            </div>
+		  
+	 <div class='col-md-3 col-sm-6 wow fadeInUp' data-wow-delay='0.3s'>
+              <div class='fun-box text-center'>
                 <i class=' lnr lnr-heart'/>
 
                 <div class='value' data-target='2'>0</div><!-- Change The Number ex: data-target='32' -->
-                <div class='title'>Current Projects</div><!-- Heading -->
+                <div class='title'>Volunteer Experience </div><!-- Heading -->
               </div>
             </div>
 
